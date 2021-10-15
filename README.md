@@ -1,14 +1,33 @@
-# clone_wooribank
-url - https://foresight128.github.io/clone_wooribank/
+# PROJECT - clone_wooribank
+우리은행 웹사이트 클론코딩
 
-Date - 2021/04/27
+View - https://foresight128.github.io/clone_wooribank/
 
-Tool & Skill
+<br>
+
+## 개요
+```
+마크업 연습을 위해 우리은행 웹사이트를 클론코딩 하였습니다.
+```
+## 제작기간
+```
+2021/04/27
+```
+
+## 투입인원
+```
+1인 단독작업
+```
+
+## 활용기술
+```
 - html5
 - css3
 - VisualStudioCode
+```
 
+## 완성 페이지
 
+![clone_wooribank](https://user-images.githubusercontent.com/89468282/137436482-2b701fd7-470a-4167-94ff-4b23c4975551.png)
 
-![woori](https://user-images.githubusercontent.com/89468282/131330632-f216b69f-a214-47ef-974f-b4f3fb7ff605.png)
 
